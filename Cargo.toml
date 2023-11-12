@@ -3,9 +3,10 @@ members = [
     "cadency_core",
     "cadency_codegen",
     "cadency_commands",
+    "cadency_giga_f",
     "cadency_yt_playlist",
     "cadency",
-    "examples/*"
+    "examples/*",
 ]
 
 [workspace.dependencies]
